@@ -1,0 +1,5 @@
+.users_list__container {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  max-height: 100vh;
+}

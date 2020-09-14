@@ -1,0 +1,31 @@
+.its_a_match__container {
+  background-color: #00000099;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.its_a_match__content {
+  display: flex;
+  flex-direction: column;
+}
+
+.its_a_match__content h1 {
+  color: white;
+}
+
+.its_a_match__avatars {
+  margin-top: 16px!important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.its_a_match__button {
+  margin-top: 16px!important;
+  background-color: var(--bg-0)!important;
+}

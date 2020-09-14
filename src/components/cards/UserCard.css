@@ -1,0 +1,28 @@
+.user_card__container {
+  position: relative;
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+}
+
+.user_card__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 16px;
+}
+
+.user_card_section {
+  background-color: var(--bg-main);
+}
+
+.user_card__display_name {}
+
+.user_card__btn {}
+
+.user_card__controls {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-evenly;
+}

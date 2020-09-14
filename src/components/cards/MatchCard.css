@@ -1,0 +1,9 @@
+.match_card__container {
+  margin: 8px;
+}
+
+.match_card__image {
+  border-radius: 50%;
+  height: 48px;
+  width: 48px;
+}

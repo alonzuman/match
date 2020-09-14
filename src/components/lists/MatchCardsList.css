@@ -1,0 +1,14 @@
+.match_cards_list__container {
+  display: flex;
+  overflow-x: scroll;
+  width: 100vw;
+}
+
+.match_cards_list__container::-webkit-scrollbar {
+  display: none;
+}
+
+.match_cards_list__container {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
